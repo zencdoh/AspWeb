@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>Sample.Web</id>
+    <title>Demo Web Application</title>
+    <version>1.0.0</version>
+    <authors>Your name</authors>
+    <owners>Your name</owners>
+    <licenseUrl>http://imsrndlabs.com</licenseUrl>
+    <projectUrl>http://nuget.imsrndlabs.com</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>A Test Demo project</description>
+    <releaseNotes>This release contains the following changes...</releaseNotes>
+  </metadata>
+</package>
